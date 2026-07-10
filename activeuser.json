@@ -20,4 +20,10 @@
         "expirydate": "31-12-2026",
         "Allowoffline": false
     },
-]
+{
+        "device_id": "4da1cedcf18f03a6",
+        "username": "raj",
+        "password": "786",
+        "expirydate": "15-08-2026",
+        "Allowoffline": false
+    },
